@@ -45,7 +45,7 @@ Logistic regression fit curve over data points
 
  Technologies Used
 
-Python 🐍
+Python 
 
 NumPy
 
